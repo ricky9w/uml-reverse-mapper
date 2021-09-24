@@ -90,6 +90,9 @@ mvn clean deploy -P release
 
 ### Release notes
 
+- 2.0.1
+    - Add support for JDK 17(currently latest LTS version)
+
 - 2.0.0
     - Add support for Mermaid presenter [#39](https://github.com/iluwatar/uml-reverse-mapper/pull/39)
     - Update to Java 11 [#42](https://github.com/iluwatar/uml-reverse-mapper/issues/42) and [#56](https://github.com/iluwatar/uml-reverse-mapper/pull/56)
